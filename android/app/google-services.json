@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383690673165",
+    "project_id": "login-register-using-fir-9998d",
+    "storage_bucket": "login-register-using-fir-9998d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383690673165:android:194c3c7c2cec67dcd21944",
+        "android_client_info": {
+          "package_name": "com.richit.login_register_using_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383690673165-sso1sjmj9bs8fgr4gb8rukc3q02hoags.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richit.login_register_using_firebase",
+            "certificate_hash": "444486e95c72be096f8347c1c9671a63ee15ccd1"
+          }
+        },
+        {
+          "client_id": "383690673165-lii8lesdcrt6u6bihda7vijaeblcn9rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15zV3xXJcgnz3fM9mvDxCMyf2euB93Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383690673165-lii8lesdcrt6u6bihda7vijaeblcn9rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
